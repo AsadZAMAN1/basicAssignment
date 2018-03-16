@@ -66,7 +66,6 @@ class Employee {
         this("Asad" + nextId, s);
     }
 
-    // the default constructor
 
     Employee() {
         // name initialized to ""--see below
